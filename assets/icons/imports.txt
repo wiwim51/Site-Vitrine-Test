@@ -1,0 +1,7 @@
+<i class="fa-solid fa-cart-arrow-down"></i>    = shop;
+<i class="fa-solid fa-magnifying-glass"></i>   = search;
+<i class="fa-solid fa-circle-arrow-left"></i>  = arrow left
+<i class="fa-solid fa-circle-arrow-right"></i> = arrow right
+<i class="fa-brands fa-instagram"></i>         = instagram
+<i class="fa-brands fa-twitter"></i>           = twitter
+<i class="fa-brands fa-facebook-square"></i>   = facebook
