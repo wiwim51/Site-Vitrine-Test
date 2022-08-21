@@ -41,11 +41,18 @@ li {
   list-style: none;
 }
 
+li a {
+  list-style: none;
+  text-decoration: none;
+  color: $white;
+}
+
 body {
   min-height: 100vh;
   text-align: center;
   font-family: $font3;
   background: $bg;
+  overflow-x: hidden;
 }
 
 /* ScrollBar Global */

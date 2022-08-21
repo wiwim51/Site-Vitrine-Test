@@ -32,14 +32,18 @@ section {
         height: 340px;
         width: 190px;
         box-shadow: $box-shadow2;
+
+
+        img {
+            object-fit: cover;
+            height: 180px;
+            width: 190px;
+            border-radius: 30px 30px 0 0;
+            margin-bottom: 20px;
+        }
     }
 
-    img {
-        height: 180px;
-        width: 190px;
-        border-radius: 30px 30px 0 0;
-        margin-bottom: 20px;
-    }
+
 
     #produit {
         margin-bottom: 20px;
@@ -64,11 +68,12 @@ section {
         text-shadow: $text-shadow2;
         padding: 0;
         cursor: pointer;
-    }
 
-    .slide-btn:hover {
-        height: 40px;
-        width: 8rem;
+
+        &:hover {
+            height: 40px;
+            width: 8rem;
+        }
     }
 
 }

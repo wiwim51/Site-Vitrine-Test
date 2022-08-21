@@ -59,7 +59,7 @@ header {
 
         &:hover {
             color: $white;
-            font-size: 1.3rem;
+
             text-shadow: $text-shadow2;
         }
     }
@@ -68,13 +68,12 @@ header {
         color: $black;
         font-size: 1.2rem;
         text-decoration: none;
+
+        &:hover {
+            color: $white;
+        }
     }
 
-    .top-container a:hover {
-        color: $white;
-        font-size: 1.3rem;
-
-    }
 
     .top-container {
         justify-content: right;
@@ -153,18 +152,20 @@ header {
 
             .next,
             .precedent {
-                color: $white;
+                color: $black;
                 font-size: 1.2rem;
                 position: absolute;
                 top: 50%;
                 transform: translateY(-50%);
                 cursor: pointer;
+
+                &:hover {
+                    color: $white;
+                }
+
             }
 
-            .next:hover,
-            .precedent:hover {
-                font-size: 1.3rem;
-            }
+
 
             .next {
                 right: 1rem;

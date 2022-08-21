@@ -30,6 +30,7 @@ precedent.addEventListener("click", function () {
   img__slider[etape].classList.add("active");
 });
 
+
 setInterval(function () {
   etape++;
   if (etape >= nbr__img) {
