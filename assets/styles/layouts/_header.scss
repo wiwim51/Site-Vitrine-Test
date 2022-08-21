@@ -231,6 +231,62 @@ header {
                 position: absolute;
             }
 
+            .slide-5 {
+                background: linear-gradient(180deg, rgba(0, 0, 0, 0.025) 0%, rgba(0, 0, 0, 0.25) 53.65%), url(../images/bavoirs\ personnalisé.jpg) no-repeat center/cover;
+                box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+                min-height: 30vh;
+                width: 100%;
+                margin: 0 auto;
+                border-radius: 35px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-direction: column;
+                position: absolute;
+            }
+
+            .slide-6 {
+                background: linear-gradient(180deg, rgba(0, 0, 0, 0.025) 0%, rgba(0, 0, 0, 0.25) 53.65%), url(../images/cotons2.jpg) no-repeat center/cover;
+                box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+                min-height: 30vh;
+                width: 100%;
+                margin: 0 auto;
+                border-radius: 35px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-direction: column;
+                position: absolute;
+            }
+
+            .slide-7 {
+                background: linear-gradient(180deg, rgba(0, 0, 0, 0.025) 0%, rgba(0, 0, 0, 0.25) 53.65%), url(../images/lotbébé.jpg) no-repeat center/cover;
+                box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+                min-height: 30vh;
+                width: 100%;
+                margin: 0 auto;
+                border-radius: 35px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-direction: column;
+                position: absolute;
+            }
+
+            .slide-8 {
+                background: linear-gradient(180deg, rgba(0, 0, 0, 0.025) 0%, rgba(0, 0, 0, 0.25) 53.65%), url(../images/cotons3.jpg) no-repeat center/cover;
+                box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+                min-height: 30vh;
+                width: 100%;
+                margin: 0 auto;
+                border-radius: 35px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-direction: column;
+                position: absolute;
+            }
+
 
             h2 {
                 font-family: $font3;
