@@ -178,6 +178,7 @@ header .bottom-container .slider-shop .precedent {
 header .bottom-container .slider-shop .next:hover,
 header .bottom-container .slider-shop .precedent:hover {
   color: white;
+  text-shadow: 0px 1px 2px #000000;
 }
 header .bottom-container .slider-shop .next {
   right: 1rem;
